@@ -1,34 +1,40 @@
-## Welcome to GitHub Profile Viewer
+# Welcome to GitHub Profile Viewer
+## _-Srijan Verma_
 
-You can use this (https://srijanv9.github.io/GitHub-Profile-Viewer/) to search and preview the user.
-### Markdown
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+GitHub Profile Viewer is a tool to search and preview the user.
+- DARK mode will be added in the next update
+- The website will be optimised for smartphones soon
+- ✨Magic ✨
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Features
+- Search for Github profiles easily
+- Simple Layout
+- Get direct links to their frequently used repositories
 
-```markdown
-Syntax highlighted code block
+Markdown is a lightweight markup language based on the formatting conventions
+that people naturally use in email.
+As [John Gruber] writes on the [Markdown site][df1]
 
-# Header 1
-## Header 2
-### Header 3
+> The overriding design goal for Markdown's
+> formatting syntax is to make it as readable
+> as possible. The idea is that a
+> Markdown-formatted document should be
+> publishable as-is, as plain text, without
+> looking like it's been marked up with tags
+> or formatting instructions.
+## Tech
 
-- Bulleted
-- List
+Dillinger uses a number of open source projects to work properly:
 
-1. Numbered
-2. List
+- [HTML] - HTML enhanced for web apps!
+- [CSS] - awesome web-based text editor
+- [Java Script] - Markdown parser done right. Fast and easy to extend.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/srijanv9/GitHub-Profile-Viewer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
+   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
+   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
+   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
+   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
+   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>

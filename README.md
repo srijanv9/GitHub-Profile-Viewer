@@ -15,8 +15,7 @@ GitHub Profile Viewer is a tool to search and preview the user.
 
 ## Tech
 
-Dillinger uses a number of open source projects to work properly:
 
-- [HTML] - HTML enhanced for web apps!
-- [CSS] - awesome web-based text editor
-- [Java Script] - Markdown parser done right. Fast and easy to extend.
+- [HTML]
+- [CSS]
+- [Java Script] 
